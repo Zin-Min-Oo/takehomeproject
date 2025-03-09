@@ -1,0 +1,49 @@
+name: takehomeproject
+description: "This is the Bigsoft Test Project."
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+  # External Libraries
+  firebase_core: any
+  cloud_firestore: ^4.8.2
+  firebase_auth: ^4.6.3
+  firebase_storage: ^11.2.4
+  fluttertoast: ^8.2.2
+  font_awesome_flutter: ^10.6.0
+  google_sign_in: ^6.1.5
+  connectivity_plus: ^5.0.2
+  dio: ^5.4.0
+  shared_preferences: ^2.2.2
+  equatable:
+  flutter_bloc: ^8.1.3
+  flutter_spinkit:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/users.png"
+  adaptive_icon_background: "#ffffff"
+  adaptive_icon_foreground: "assets/images/users.png"
+  min_sdk_android: 21
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/users.png

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>17290118173-sdrhab4pb4d8js1u6k9v4vllg81mop1h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.17290118173-sdrhab4pb4d8js1u6k9v4vllg81mop1h</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>17290118173-253173th0mqg2a0r7qjjoms1skq96gr0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDOrtmUuPZU6ORKeUoOdZCWR4hnBrSH_oI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>17290118173</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bigsoft.takehomeproject</string>
+	<key>PROJECT_ID</key>
+	<string>takehomeproject-5fab8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>takehomeproject-5fab8.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:17290118173:ios:789310817b383fb06b72f4</string>
+</dict>
+</plist>

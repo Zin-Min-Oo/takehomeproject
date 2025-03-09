@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "17290118173",
+    "project_id": "takehomeproject-5fab8",
+    "storage_bucket": "takehomeproject-5fab8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17290118173:android:8c71d61b1df662dd6b72f4",
+        "android_client_info": {
+          "package_name": "com.bigsoft.takehomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17290118173-253173th0mqg2a0r7qjjoms1skq96gr0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bigsoft.takehomeproject",
+            "certificate_hash": "ae4a9f2d1056d980156fa3cb27e16828a6b3e9c4"
+          }
+        },
+        {
+          "client_id": "17290118173-p2phbknnllp3485c8rbqnnf6eqas0p54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX6601AIUjNryYwHvJuv8xJING57V4ohk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17290118173-p2phbknnllp3485c8rbqnnf6eqas0p54.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "17290118173-sdrhab4pb4d8js1u6k9v4vllg81mop1h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bigsoft.takehomeproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
